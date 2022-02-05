@@ -1,0 +1,19 @@
+{
+    "name": "mrbhola/contact",
+    "description": "send email on feedback to admin and store message to database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bhola Kr. Khawas",
+            "email": "bkhawas42@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mrbhola\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
